@@ -22,6 +22,7 @@
   <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
   <img src='https://img.shields.io/badge/Git-black?style=for-the-badge' />
+ <img aling="center" alt="html" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 <br/>
