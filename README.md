@@ -7,7 +7,7 @@
 ** Este um minigame do foi isnpirado na serie rick and morye uma serie animada da Netflix !
 <br/>
 
-<img width=100% src=""></img>
+<img width=100% src="Captura de tela_29-5-2024_2409_jogodamemeroria.netlify.app.jpeg"></img>
 
 <br/>
 
